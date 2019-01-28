@@ -1,5 +1,4 @@
 # hello-world
-first repository
 
 Pater Noster
 qui es in caelis,
